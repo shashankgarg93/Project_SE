@@ -1,0 +1,131 @@
+{
+  "Header": {
+    "title": "Book My Tutor",
+    "paragraph": "Find a Tutor nearby with one click"
+  },
+  "About": {
+    "paragraph": "BookMyTutor looks forward to providing our users easy and a convinient way to locate teachers providing tutions nearby.So, now you dont have to look twice or keep on asking in your neighbourhood. Just come onto our site allow us to see your location and we will provide the best tutors you want.",
+    "Why": [
+      "Verified teachers available on platform",
+      "Wider Range of Choices",
+      "Find the best-suited Teachers"
+    ],
+    "Why2": [
+      "Greater Exposure for Teachers",
+      "Teacher's Brand Name Expansion",
+      "Easy-to-Use platform"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/1.jpeg",
+      "name": "Manav Ganjoo",
+      "job":"https://www.linkedin.com/in/manav-ganjoo-ba1832206/"
+        },
+    {
+      "img": "img/team/2.jpeg",
+      "name": "Shashank Garg",
+      "job":"https://www.linkedin.com/in/shashankgargg/"
+    },
+    {
+      "img": "img/team/3.jpeg",
+      "name": "Abhinav Mangla",
+      "job":"https://www.linkedin.com/in/abhinavmangla1405/"
+    },
+    {
+      "img": "img/team/4.jpeg",
+      "name": "Pawan Puneet Singh",
+      "job":"https://www.linkedin.com/in/pawan-puneet-singh-11a9b6197/"
+    }
+  ],
+  "Contact": {
+    "address": "Chandigarh",
+    "phone": "+918588003059",
+    "email": "shashank.garg9300@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Easy To Use",
+      "text": "Find tutors nearby with just a click."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Verified Tutors",
+      "text": "All tutors verified personally by us."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "No Hidden Charges",
+      "text": "All the information available on the site is free."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "More exposure for tutors",
+      "text": "Expand your brand among students from different neighbourhoods."
+    }
+  ]
+}
